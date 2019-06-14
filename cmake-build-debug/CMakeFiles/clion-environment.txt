@@ -1,0 +1,4 @@
+ToolSet: 5.2 (local)@D:\setup_space_all\mingw
+Options: 
+
+Options:
